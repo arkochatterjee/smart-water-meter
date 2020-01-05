@@ -1,2 +1,2 @@
 # smart-water-meter
-Flask App for Smart Water Meter
+Flask App for Smart Water Conservation
